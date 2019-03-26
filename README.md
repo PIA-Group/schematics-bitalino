@@ -6,6 +6,10 @@ breakout. Source files (.brd & .sch) can be opened with AutoDesk's EAGLE PCB des
 ![BITalino All-in-One Board](https://raw.githubusercontent.com/PIA-Group/schematics-bitalino/master/BITalino.JPG)
 
 
+## Publications
+
+Priscila Alves, Hugo Plácido da Silva, André Lourenço and Ana Fred. [BITalino: A biosignal acquisition system based on the Arduino](https://lx.it.pt/~afred/papers/BITalino.pdf). In *Proc. of the Int'l Conf. on Biomedical Electronics and Devices (BIODEVICES)*, pp. 261-264, 2013
+
 ## License
 
 See LICENSE for more details.
